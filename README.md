@@ -30,4 +30,4 @@ Para clonar este repositorio, utiliza el siguiente comando en tu terminal:
 Las contribuciones son bienvenidas. Si tienes alguna idea o mejora, no dudes en hacer un fork del proyecto, realizar tus cambios y enviar un pull request.
 
 ## 📄 Licencia
-Este proyecto está bajo la Licencia MIT. Puedes ver más detalles en el archivo [LICENSE](https://github.com/AldairDominguez/Calcula-Promedio/blob/main/LICENSE).
+Este proyecto está bajo la Licencia MIT. Puedes ver más detalles en el archivo [LICENSE](https://opensource.org/license/MIT).
